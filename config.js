@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "SILENT-SOBX-MD~rMAXiIYT#QmptTFEM2-6-Mmp7-6MZTq4Lw94_N5Jz6q60EMbZqtI",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
@@ -21,16 +21,16 @@ module.exports = {
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
-    FAKE_TYPING: process.env.FAKE_TYPING || "false",
+    FAKE_TYPING: process.env.FAKE_TYPING || "ture",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923096287432",
-    OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923097580232",
+    OWNER_NAME: process.env.OWNER_NAME || "ī.am=>Hassnain_804",
     READ_CMD: process.env.READ_CMD || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    BOT_NAME: process.env.BOT_NAME || "ī.am=>Hassnain_804",
     STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂`",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
